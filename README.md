@@ -3,4 +3,4 @@ PrivateMessaging is a simple, open source Spigot Minecraft plugin that implement
 
 # Commands
 /dm <player_name> <message>
-  _Note: This plugin's error messages are written in spanish.
+  Note: This plugin's error messages are written in spanish.

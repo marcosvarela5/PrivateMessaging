@@ -1,0 +1,10 @@
+name: PrivateMessaging
+version: '${project.version}'
+main: es.marcos.privatemessaging.PrivateMessaging
+api-version: 1.18
+authors: [ Marcos ]
+description: Private message system for Minecraft Server
+commands:
+  dm:
+    description: Send a private message to someone
+
